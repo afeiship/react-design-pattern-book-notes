@@ -1,0 +1,11 @@
+{
+  "name": "react-design-pattern-book-notes",
+  "version": "1.0.0",
+  "description": "Book notes for react design pattern.",
+  "homepage": "https://github.com/afeiship/react-design-pattern-book-notes",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT"
+}
