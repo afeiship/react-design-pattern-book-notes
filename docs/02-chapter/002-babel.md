@@ -33,6 +33,6 @@ npm i -D babel-preset-es2015
 ```
 
 
-## 常见 preset
+## 常见 preset (pre set 预先 设置)
 - babel-preset-react
 - babel-preset-es2015 
