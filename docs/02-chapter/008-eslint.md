@@ -73,3 +73,9 @@ Parsing error: The keyword 'const' is reserved
   }
 }
 ```
+
+## lint-stage(husky)
+另一个方案是在发起 pull request 前进行代码检查，这样在同事开始审查前还有机会整理代码。
+
+
+
